@@ -1,0 +1,11 @@
+/*******************************
+         Theme Overrides
+*******************************/
+.ui.basic.button.night{
+    background:black;
+    color:white;
+}
+
+.ui.black.mini.button{
+    background:rgba(0, 0, 0, 0.6)
+}
